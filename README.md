@@ -138,11 +138,11 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avinash00006&show_icons=true&title_color=737B52&text_color=292A24&icon_color=737B52&bg_color=F3EFE3&border_color=E9E3D2&hide_border=false" alt="Avinash's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash00006&layout=compact&title_color=737B52&text_color=292A24&bg_color=F3EFE3&border_color=E9E3D2&hide_border=false" alt="Top Languages" height="165" />
+  <img src="https://komarev.com/ghpvc/?username=Avinash00006&color=737b52&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Avinash00006?label=Followers&style=flat-square&color=4F5738" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Pega_Credentials-Double_Certified-737B52?style=flat-square" alt="Pega Credentials" />
+  <img src="https://img.shields.io/badge/Primary_Stack-Next.js_%E2%80%A2_Python_%E2%80%A2_Pega-292A24?style=flat-square" alt="Primary Stack" />
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash00006&theme=gruvbox&ring=737B52&fire=737B52&currStreakLabel=737B52&background=F3EFE3&stroke=E9E3D2&sideNums=292A24&sideLabels=737B52&dates=5A5C52" alt="GitHub Streak" />
